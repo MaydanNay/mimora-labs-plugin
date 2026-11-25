@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mimora_labs": {
+      "type": "http",
+      "url": "https://mcp.mimora.io/mcp"
+    }
+  }
+}

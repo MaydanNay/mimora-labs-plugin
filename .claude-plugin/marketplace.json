@@ -1,0 +1,14 @@
+{
+  "name": "mimora-labs",
+  "description": "Плагины Mimora Labs для Claude",
+  "owner": {
+    "name": "Mimora Labs"
+  },
+  "plugins": [
+    {
+      "name": "mimora-labs",
+      "source": "./plugins/mimora-labs",
+      "description": "Восемь сценариев Mimora Labs: оффер, креативы, A/B текста, аудитория, глубокая панель, правки, возражения и отчёт клиенту"
+    }
+  ]
+}
