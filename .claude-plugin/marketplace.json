@@ -7,6 +7,7 @@
   "plugins": [
     {
       "name": "mimora-labs",
+      "version": "0.2.12",
       "source": "./plugins/mimora-labs",
       "description": "Восемь сценариев Mimora Labs: оффер, креативы, A/B текста, аудитория, глубокая панель, правки, возражения и отчёт клиенту"
     }
