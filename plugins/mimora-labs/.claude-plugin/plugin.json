@@ -1,7 +1,7 @@
 {
   "name": "mimora-labs",
   "version": "0.3.0",
-  "description": "Восемь сценариев Mimora Labs для Claude: оффер, креативы, A/B текста, аудитория, глубокая панель, правки, возражения и отчёт клиенту через MCP.",
+  "description": "Десять сценариев Mimora Labs для Claude: старт и диагностика, мои результаты, оффер, креативы, A/B текста, аудитория, глубокая панель, правки, возражения и отчёт клиенту через MCP.",
   "homepage": "https://labs.mimora.io",
   "repository": "https://github.com/MaydanNay/mimora-labs-plugin",
   "license": "MIT",
