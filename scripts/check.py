@@ -46,7 +46,7 @@ UNIVERSAL = {
 }
 # Скиллы, которые читают реплики ИИ-людей (pick-audience их не читает).
 READS_REPLIES = {"check-offer", "ab-copy", "creative-tournament", "deep-panel", "rewrite-and-retest",
-                 "client-report", "objection-handling"}
+                 "client-report", "objection-handling", "my-results", "start"}
 RULES: dict[str, dict[str, str]] = {
     # скиллы, которые тратят кредиты или создают людей
     "paid": {
@@ -57,7 +57,7 @@ RULES: dict[str, dict[str, str]] = {
 }
 PAID_SKILLS = {"check-offer", "ab-copy", "creative-tournament", "deep-panel", "rewrite-and-retest"}
 CREATE_CAST_SKILLS = PAID_SKILLS | {"pick-audience"}
-READ_ONLY_REPORT_SKILLS = {"client-report", "objection-handling"}
+READ_ONLY_REPORT_SKILLS = {"client-report", "objection-handling", "my-results", "start"}
 
 errors: list[str] = []
 
