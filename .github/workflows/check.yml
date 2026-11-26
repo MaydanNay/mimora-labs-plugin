@@ -14,3 +14,5 @@ jobs:
           python-version: "3.12"
       - name: Проверка целостности репозитория
         run: python3 scripts/check.py
+      - name: Тесты проверки
+        run: python3 scripts/test_check.py
